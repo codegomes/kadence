@@ -4,6 +4,8 @@
 
 Agregador de corridas de rua no Brasil.  
 
+
+
 Lê uma planilha pública (CSV) do Google Sheets e monta cards de eventos com busca e filtros (UF, cidade, mês e fonte), exibindo link direto de inscrição.
 
 
@@ -60,7 +62,7 @@ Lê uma planilha pública (CSV) do Google Sheets e monta cards de eventos com bu
 
 
 
-!\[Tela Inicial](imagens/inicio.png)
+!\[Tela Inicial](/imagens/inicio.png)
 
 
 
@@ -93,6 +95,7 @@ Lê uma planilha pública (CSV) do Google Sheets e monta cards de eventos com bu
 
 
 \## 📁 Estrutura
+
 
 
 / (raiz)
@@ -174,8 +177,6 @@ MIT — use, modifique e contribua livremente.
 \*\*Créditos técnicos:\*\* HTML sem framework, JavaScript vanilla para data pipeline, heurísticas e UI.  
 
 A listagem e os filtros são construídos dinamicamente no cliente, sem backend.
-
-
 
 
 
