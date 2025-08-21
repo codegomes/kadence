@@ -1,0 +1,10 @@
+# Node.js
+node_modules/
+dist/
+
+# Configurações do sistema
+.DS_Store
+Thumbs.db
+
+# Variáveis de ambiente
+.env
