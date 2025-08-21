@@ -1,4 +1,4 @@
-\# 🏃 Kadence — Encontre sua próxima corrida
+# 🏃 Kadence — Encontre sua próxima corrida
 
 
 
@@ -46,7 +46,7 @@ Lê uma planilha pública (CSV) do Google Sheets e monta cards de eventos com bu
 
 
 
-\- \*\*Contadores no topo:\*\* total de Eventos e de Fontes.
+- \*\*Contadores no topo:\*\* total de Eventos e de Fontes.
 
 
 
@@ -54,15 +54,15 @@ Lê uma planilha pública (CSV) do Google Sheets e monta cards de eventos com bu
 
 
 
-\## 🖼️ Print do Projeto
+## 🖼️ Print do Projeto
 
 
 
-\### Tela Inicial
+### Tela Inicial
 
 
 
-!\[Tela Inicial](/imagens/inicio.png)
+![Tela Inicial](imagens/inicio.png)
 
 
 
